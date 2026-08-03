@@ -69,12 +69,12 @@ portfolio-website/
 │── script.js
 │── README.md
 │── LICENSE
+│── favicon.ico
 │
 ├── assets/
 │   ├── profile.jpg
 │   ├── resume.pdf
 │   ├── projects/
-│   └── icons/
 ```
 
 ---
@@ -96,30 +96,6 @@ cd personal-portfolio
 ### 3. Run the Website
 
 Open `index.html` in your preferred web browser.
-
-
-## 📸 Screenshots
-
-Create a folder named:
-
-```text
-assets/screenshots/
-```
-
-Suggested screenshots:
-
-* Home Page
-* About Section
-* Skills Section
-* Projects Section
-* Contact Section
-* Mobile View
-
-Example:
-
-```md
-![Home](assets/screenshots/home.png)
-```
 
 ---
 
@@ -149,8 +125,6 @@ Example:
 ---
 
 ## 🌐 Live Demo
-
-Deploy the project using GitHub Pages, Netlify, or Vercel and replace the placeholder below:
 
 ```text
 https://your-username.github.io/portfolio-website/
