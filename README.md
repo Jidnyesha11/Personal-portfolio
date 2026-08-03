@@ -84,22 +84,19 @@ portfolio-website/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+https://github.com/Jidnyesha11/Personal-portfolio.git
 ```
 
 ### 2. Open the Project
 
 ```bash
-cd portfolio-website
+cd personal-portfolio
 ```
 
 ### 3. Run the Website
 
 Open `index.html` in your preferred web browser.
 
-Alternatively, use the **Live Server** extension in Visual Studio Code for a better development experience.
-
----
 
 ## 📸 Screenshots
 
