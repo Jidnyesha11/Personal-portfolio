@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern, fully responsive personal portfolio website built using **HTML5, CSS3, and JavaScript (ES6)**. This portfolio showcases my skills, projects, and experience as an **Electronics & Computer Science Engineer**, **AI Developer**, and **Full Stack Developer**.
+A modern, fully responsive personal portfolio website built using **HTML5, CSS3, and JavaScript (ES6)**. This portfolio showcases my skills, projects, and experience as an **Software Engineer**, **AI Developer**, and **Full Stack Developer**.
 
 ---
 
@@ -63,7 +63,7 @@ The website includes:
 ## 📂 Project Structure
 
 ```text
-portfolio-website/
+personal-portfolio/
 │── index.html
 │── style.css
 │── script.js
@@ -127,7 +127,7 @@ Open `index.html` in your preferred web browser.
 ## 🌐 Live Demo
 
 ```text
-https://your-username.github.io/portfolio-website/
+https://jidnyesha11.github.io/Personal-portfolio/
 ```
 
 ---
